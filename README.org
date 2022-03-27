@@ -1,0 +1,10 @@
+* Samalgundi
+* TASKS
+** TODO [UI] As a deployer of the UI, I want to be able to configure the API URL :UI:
+
+Currently the URL for the API is hard coded.  The URL should be configurable.
+
+Acceptance:
+
+- the URL can be set via environment variable
+- the URL can be set via the configuration file
