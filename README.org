@@ -1,6 +1,17 @@
 * Samalgundi
+
+** git, github, gitlab
+** JSON, YAML
+** REST
+** Golang
+** TDD
+** CI/CD
+** Infrastructure as Code
+
+
 * TASKS
-** TODO [UI] As a deployer of the UI, I want to be able to configure the API URL :UI:
+** DONE [UI] As a deployer of the UI, I want to be able to configure the API URL :UI:
+CLOSED: [2022-03-27 So 21:51]
 
 Currently the URL for the API is hard coded.  The URL should be configurable.
 
